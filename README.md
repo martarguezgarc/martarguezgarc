@@ -1,4 +1,8 @@
 ## Hi there 👋
+Marta is a professional with experience in application security, specializing in integrating security into the application development lifecycle and optimizing the maturity of related processes. She also has a strong academic foundation in Foto offensive and defensive cybersecurity, applying MITRE ATT&CK technique.
+
+<!-- These are some of my learnings: -->
+![Security Pipeline Tutorial](https://img.shields.io/badge/Security_Pipeline_Tutorial-Completado_%E2%9C%85-4caf50?style=flat-square&logo=githubactions&logoColor=white)
 
 <!--
 **martarguezgarc/martarguezgarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
