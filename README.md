@@ -4,6 +4,8 @@ Marta is a professional with experience in application security, specializing in
 <!-- These are some of my learnings: -->
 ![Security Pipeline Tutorial](https://img.shields.io/badge/Security_Pipeline_Tutorial-Completado_%E2%9C%85-4caf50?style=flat-square&logo=githubactions&logoColor=white)
 
+![Advanced DevSecOps Tutorial](https://img.shields.io/badge/Advanced_DevSecOps_Tutorial-Completado_%E2%9C%85-4caf50?style=flat-square&logo=n8n&logoColor=white)
+
 <!--
 **martarguezgarc/martarguezgarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
